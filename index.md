@@ -8,7 +8,6 @@ excerpt: "My name in Nathan Peterman. I work on robots. Yes, a rocket is just a 
 aside: true
 ---
 
-## Header 
-Currently working on electromechanical actuators at Stoke Space
+Currently working on electromechanical actuators at [Stoke Space](https://www.stokespace.com/ "Stoke Space).
 
-Below I have a collection of personal projects, an assortment of notes on robots, and some photos that I’ve taken:
+Using the navigation bar above, you can find my personal projects, an assortment of notes on robots, and some photos that I’ve take. 
