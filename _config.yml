@@ -125,14 +125,14 @@ navigation_header:
   url: /Nathan-Peterman.github.io/
 - title: About
   url: /Nathan-Peterman.github.io/about/
-- title: Blog
+- title: Project Blog
   url: /Nathan-Peterman.github.io/blog/
 - title: Categories
   url: /Nathan-Peterman.github.io/categories/
 - title: Search
   url: /Nathan-Peterman.github.io/search/
-- title: Fork Alembic
-  url: https://github.com/daviddarnes/alembic
+- title: Old Wesbite
+  url: https://thin-almandine-809.notion.site/Personal-Website-add26f6b55a442d6a76f2fd0d98da344
 
 navigation_footer:
 - title: #Created by David Darnes
