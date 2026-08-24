@@ -122,15 +122,15 @@ favicons: # Favicons are also used in the manifest file. Syntax is 'size: path'
 # 9. Site navigation
 navigation_header:
 - title: Home
-  url: /
+  url: /Nathan-Peterman.github.io/
 - title: Elements
-  url: /elements/
+  url: /Nathan-Peterman.github.io/elements/
 - title: Blog
-  url: /blog/
+  url: /Nathan-Peterman.github.io/blog/
 - title: Categories
-  url: /categories/
+  url: /Nathan-Peterman.github.io/categories/
 - title: Search
-  url: /search/
+  url: /Nathan-Peterman.github.io/search/
 - title: Fork Alembic
   url: https://github.com/daviddarnes/alembic
 
